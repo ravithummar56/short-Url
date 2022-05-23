@@ -1,9 +1,16 @@
 
+Linkedin => https://www.linkedin.com/in/ravi-thummar-a70407184/
+
+
 
 ==============================================================================================
+
+
+
+
 Thank you for giving me this opertunity i am happy to share with you this work .
 
-I do this system using DB i create one table for store like HashCode and long url when any user can call our shorturl sytem will check and redirect them that url but before redirect that url will remove from our system bcz in requirement mention that url will only use one time.
+I do this system using Laravel and Mysql DB .i create one table for store like HashCode and long url when any user can call our shorturl sytem will check and redirect them that url but before redirect that url will remove from our system bcz in requirement mention that url will only use one time.
 
 -> we have many way to do that buy easy and short way to do this create short url and shre that url on social media 
 	it's work like `bitly.com`.
